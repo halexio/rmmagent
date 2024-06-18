@@ -1,7 +1,7 @@
 #define MyAppName "Tactical RMM Agent"
 #define MyAppVersion "2.7.0"
 #define MyAppPublisher "AmidaWare Inc"
-#define MyAppURL "https://github.com/amidaware"
+#define MyAppURL "https://github.com/halexio"
 #define MyAppExeName "tacticalrmm.exe"
 #define MESHEXE "meshagent.exe"
 #define MESHDIR "{sd}\Program Files\Mesh Agent"
