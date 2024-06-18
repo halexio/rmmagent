@@ -15,7 +15,7 @@ import (
 	"encoding/json"
 
 	"github.com/StackExchange/wmi"
-	rmm "github.com/amidaware/rmmagent/shared"
+	rmm "github.com/halexio/rmmagent/shared"
 )
 
 func GetWin32_USBController() ([]interface{}, error) {
