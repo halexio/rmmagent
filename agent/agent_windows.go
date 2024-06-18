@@ -28,7 +28,7 @@ import (
 	"time"
 	"unsafe"
 
-	rmm "github.com/amidaware/rmmagent/shared"
+	rmm "github.com/halexio/rmmagent/shared"
 	ps "github.com/elastic/go-sysinfo"
 	"github.com/fourcorelabs/wintoken"
 	"github.com/go-ole/go-ole"
