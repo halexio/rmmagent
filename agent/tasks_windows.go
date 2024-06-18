@@ -21,7 +21,7 @@ import (
 
 	"github.com/amidaware/taskmaster"
 
-	rmm "github.com/amidaware/rmmagent/shared"
+	rmm "github.com/halexio/rmmagent/shared"
 	"github.com/rickb777/date/period"
 )
 
