@@ -1,4 +1,4 @@
-module github.com/amidaware/rmmagent
+module github.com/halexio/rmmagent
 
 go 1.20
 
